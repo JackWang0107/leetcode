@@ -1,3 +1,3 @@
-# leetcode 
+# Leetcode Introduction
 
-This repository is used as collections fixed problems 
+My leetcode codes, just for reference.
